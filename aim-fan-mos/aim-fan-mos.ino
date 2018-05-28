@@ -35,7 +35,7 @@
 #define ECHO 5
 #define TRIG 4
 #define SERVO 3
-#define MOS 13
+#define MOS 2
 // ---------- ПИНЫ ----------
 
 // ---------- ДЛЯ РАЗРАБОТЧИКОВ ----------
