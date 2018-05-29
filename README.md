@@ -41,6 +41,10 @@
 ### Почти все компоненты можно взять в магазине WAVGAT по первым ссылкам
 * Arduino NANO с ногами http://ali.pub/2jivem http://ali.pub/2jivf0
 * Arduino NANO без ног http://ali.pub/2jivfs http://ali.pub/2jivfz
+* Arduino Pro Mini http://ali.pub/2jm2p8
+* Программатор http://ali.pub/2jm2js
+* Программатор WAVGAT, без пина DTR (во время загрузки нужно самому нажать reset на Arduino) http://ali.pub/2jm2no
+* Программатор как на видео http://ali.pub/2jm2o2
 * Макетная плата http://ali.pub/2jivgr
 * Джамперы папа-мама http://ali.pub/2jivhc
 * Джамперы макетные http://ali.pub/2jivhq
