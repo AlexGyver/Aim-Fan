@@ -38,22 +38,23 @@
 ## Материалы и компоненты
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
 ### Почти все компоненты можно взять в магазине WAVGAT по первым ссылкам
-* Arduino NANO с ногами http://ali.pub/2jivem http://ali.pub/2jivf0
-* Arduino NANO без ног http://ali.pub/2jivfs http://ali.pub/2jivfz
-* Arduino Pro Mini http://ali.pub/2jm2p8
-* Программатор http://ali.pub/2jm2js
-* Программатор WAVGAT, без пина DTR (во время загрузки нужно самому нажать reset на Arduino) http://ali.pub/2jm2no
-* Программатор как на видео http://ali.pub/2jm2o2
-* Макетная плата http://ali.pub/2jivgr
-* Джамперы папа-мама http://ali.pub/2jivhc
-* Джамперы макетные http://ali.pub/2jivhq
-* Блок питания 5V - любой зарядник для смартфона
-* Серво большая http://ali.pub/2jivjo
-* Серво маленькая http://ali.pub/2jivn6
-* Датчик расстояния http://ali.pub/2jivl8
-* Мосфет модуль http://ali.pub/2jivtl
-* Транзисторы, конденсаторы и резисторы - в ЛЮБОМ магазине радиодеталей
-* Вентилятор из видео! http://ali.pub/2jivru	http://ali.pub/2jivst
+* Arduino NANO 328p – искать
+* https://ali.ski/tI7blh
+* https://ali.ski/O4yTxb
+* https://ali.ski/6_rFIS
+* https://ali.ski/gb92E-
+* Arduino Pro Mini https://ali.ski/yrBCjN
+* Программатор https://ali.ski/ylEyc
+* Макетка и провода https://ali.ski/KzvzGO
+* Блок питания 5V – любой зарядник для смартфона
+* Серво большая https://ali.ski/6xoKh6
+* Серво маленькая https://ali.ski/l0h_Uv
+* Датчик расстояния https://ali.ski/NG1eD
+* Мосфет модуль https://ali.ski/ocmEt
+* Транзисторы, конденсаторы и резисторы – в ЛЮБОМ магазине радиодеталей
+* Вентилятор из видео!
+* https://ali.ski/3DpIv7
+* https://ali.ski/mssUF
 
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
