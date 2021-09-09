@@ -35,6 +35,27 @@
 ![SCHEME](https://github.com/AlexGyver/Aim-Fan/blob/master/schemes/scheme4.jpg)
 
 <a id="chapter-3"></a>
+## Материалы и компоненты
+### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
+### Почти все компоненты можно взять в магазине WAVGAT по первым ссылкам
+* Arduino NANO 328p – искать
+* https://ali.ski/udGBhH
+* https://ali.ski/6Xogm
+* https://ali.ski/F3Qgt
+* https://ali.ski/CiaoQ5
+* Arduino Pro Mini https://ali.ski/LuvzC
+* Программатор https://ali.ski/5-aol-
+* Макетка и провода https://ali.ski/ua-0I
+* Блок питания 5V – любой зарядник для смартфона
+* Серво большая https://ali.ski/EEPdSo
+* Серво маленькая https://ali.ski/pQDr1
+* Датчик расстояния https://ali.ski/gcGys
+* Мосфет модуль https://ali.ski/wXDIWE
+* Транзисторы, конденсаторы и резисторы – в ЛЮБОМ магазине радиодеталей
+* Вентилятор из видео!
+* https://ali.ski/CudHhy
+* https://ali.ski/QxbuM
+
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
 * [Недорогие инструменты](http://alexgyver.ru/my_instruments/)
